@@ -34,11 +34,11 @@
     {
       "key": "獨播",
       "name": "獨播",
-      "type": 3,
+      "type": 2,
       "api": "csp_XPathMacFilter",
-      "searchable": 2,
-      "filterable": 2,
-      "changeable": 2,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
       "ext": "https://raw.githubusercontent.com/Walden333/ttbox/main/duboku.json"
     },
     {
