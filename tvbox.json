@@ -121,11 +121,13 @@
 {
 "key":"csp_xpath_唐人街",
 "name":"唐人街(XPF)",
-"type":3,"api":"csp_XPathMacFilter",
+"type":3,
+"api":"csp_XPathMacFilter",
 "searchable":1,
 "quickSearch":0,
 "filterable":0,
-"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXP/Renjie.json"},
+"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXP/Renjie.json"
+},
     
     {
       "key": "push_agent",
