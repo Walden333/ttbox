@@ -118,6 +118,13 @@
       "changeable": 0,
       "ext": "影視天下第一$$$yingshi$$$abcd1234"
     },
+{"key":"csp_xpath_唐人街",
+"name":"唐人街(XPF)",
+"type":3,"api":"csp_XPathMacFilter",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,"ext
+}
     {
       "key": "push_agent",
       "name": "推送",
