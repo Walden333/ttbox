@@ -34,7 +34,7 @@
     {
       "key": "獨播",
       "name": "獨播",
-      "type": 2,
+      "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "filterable": 1,
