@@ -125,6 +125,7 @@
 "api":"csp_XPathMacFilter",
 "searchable":1,
 "quickSearch":0,
+"changeable": 0,
 "filterable":0,
 "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXP/Renjie.json"
 },
