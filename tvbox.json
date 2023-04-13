@@ -14,6 +14,7 @@
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"🐼小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/kuqimv.json"},
@@ -311,7 +312,6 @@
 {"key":"csp_appysv2_独优影视","name":"独优影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_CV影视","name":"CV影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
-{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 1},
 #
 
 
