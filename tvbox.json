@@ -1,17 +1,32 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f2064f61914f9fe0258820ab04b5abce",
-  "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA4.jar",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1aa6c09c2ed0f3d11db69b6c15e7a1cd",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
     {
       "key": "AList",
       "name": "AList",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
       "key": "哔哩",
@@ -19,9 +34,8 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
       "key": "泥巴",
@@ -29,7 +43,14 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
       "changeable": 1
     },
     {
@@ -38,9 +59,91 @@
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "体育",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
     },
     {
       "key": "櫻花",
@@ -48,7 +151,6 @@
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -57,7 +159,6 @@
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
@@ -66,18 +167,15 @@
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
-      "filterable": 1,
       "changeable": 1
     },
     {
-      "key": "紙條",
-      "name": "紙條",
+      "key": "玩偶",
+      "name": "玩偶",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
     },
     {
       "key": "七夜",
@@ -85,19 +183,15 @@
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
     },
     {
-      "key": "易搜",
-      "name": "易搜",
+      "key": "雲搜",
+      "name": "雲搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_UpYun",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
     },
     {
       "key": "盤搜",
@@ -105,30 +199,118 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
     },
     {
-      "key": "UP雲搜",
-      "name": "UP雲搜",
+      "key": "盤搜索",
+      "name": "盤搜索",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_PanSearch",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
     },
-    {"key":"csp_biubiu_欧乐影院","name":"🥒欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/欧乐影院.json"},
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    },
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "影視天下第一"
+      "changeable": 0
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "量子廣告",
+      "hosts": [
+        "vip.lz.com",
+        "hd.lz.com"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡廣告",
+      "hosts": [
+        "vip.ffzy.com",
+        "hd.ffzy.com"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
     }
   ]
 }
