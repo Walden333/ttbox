@@ -294,6 +294,8 @@
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
+{"name":"蚂蚁","hosts":["v\\.cdnlz.*\\.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    
     {
       "name": "火山嗅探",
       "hosts": [
