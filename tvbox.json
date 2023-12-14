@@ -5,7 +5,6 @@
   "key": "49zy",
       "name": "🍚VIP专享1080P-C",
       "type": 1,
-      "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar"
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
