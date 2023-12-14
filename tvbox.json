@@ -1,7 +1,8 @@
 {
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "sites": [
+  "sites":
+     { [
   "key": "49zy",
       "name": "🍚VIP专享1080P-C",
       "type": 1,
