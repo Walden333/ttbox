@@ -58,7 +58,7 @@
             "key": "泥巴",
             "name": "量子",
             "type": 3,
-            "api": ""https://cj.lziapi.com/api.php/provide/vod/
+            "api": "https://cj.lziapi.com/api.php/provide/vod/"
             "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
