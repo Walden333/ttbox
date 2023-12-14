@@ -1,6 +1,5 @@
 {
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67",    
-"spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -12,7 +11,16 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
-        {"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"},
+        {"key":"sc影视",
+            "name":"🌸盛城影视",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"
+            "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+        },
          { 
       "key": "49zyw",
       "name": "49zyw",
