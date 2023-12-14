@@ -11,6 +11,7 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
+        {"key":"csp_量子","name":"🅱️量子资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://la.kstore.space/download/5206/lib/量子资源网.json"},
          { 
       "key": "49zyw",
       "name": "49zyw",
