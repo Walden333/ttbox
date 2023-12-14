@@ -1,5 +1,4 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites":[
      { 
@@ -48,6 +47,7 @@
     },
     {
       "key": "泥巴",
+      "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
       "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
