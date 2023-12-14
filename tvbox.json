@@ -55,10 +55,10 @@
       ]
       },
 {
-            "key": "泥巴",
+            "key": "糧糧",
             "name": "量子",
             "type": 3,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/"
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/"
             "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
