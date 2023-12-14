@@ -206,7 +206,7 @@
             "key": "量子",
             "name": "量子",
             "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
             "searchable": 1,
             "changeable": 1
         },
