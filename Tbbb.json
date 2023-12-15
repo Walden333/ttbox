@@ -12,12 +12,6 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
-        {
-        "key": "star",
-        "name": "星视界【魔法】",
-        "type": 3,
-        "api": "./star_open.js"
-      },
         {"key":"sc影视",
             "name":"🌸盛城影视",
             "type":3,
