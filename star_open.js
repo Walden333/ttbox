@@ -1,4 +1,4 @@
-.import { Crypto, load, _ } from 'assets://js/lib/cat.js';
+import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 let key = 'star';
 let host = 'https://www.histar.tv';
@@ -35,9 +35,9 @@ async function init(cfg) {
     types = {
         'movie': '电影',
         'drama': '电视剧',
-        'animation': '�𢆡瞍�',
-        'variety': '蝏潸䰾',
-        'documentary': '蝥芸�閧��',
+        'animation': '动漫',
+        'variety': '综艺',
+        'documentary': '纪录片',
     };
     // ver = await getVer();
 }
@@ -61,9 +61,9 @@ async function home(filter) {
         const $ = load(html);
         const json = $('#__NEXT_DATA__')[0].children[0].data;
         const obj = JSON.parse(json).props.pageProps.filterCondition;
-        const label = convertTypeData(obj, 'label', '电影');
-        const country = convertTypeData(obj, 'country', '电视剧');
-        const time = convertTypeData(obj, 'time', '撟港遢');
+        const label = convertTypeData(obj, 'label', '类型');
+        const country = convertTypeData(obj, 'country', '地区');
+        const time = convertTypeData(obj, 'time', '年份');
         const filterArray = [label, country, time];
         filterConfig[typeId] = filterArray;
     };
@@ -98,7 +98,7 @@ function convertTypeData(typeData, key, name) {
         };
     });
     values.unshift({
-        n: '�券��',
+        n: '全部',
         v: '',
     });
     const typeClass = {
@@ -117,7 +117,7 @@ async function homeVod() {
     const obj = JSON.parse(json).props.pageProps.cards;
     const videos = [];
     _.each(obj, (cards) => {
-        if (cards.name == '�㩞閫��凒�偘') return;
+        if (cards.name == '电视直播') return;
         _.each(cards.cards, (card) => {
             const v = {
                 vod_id: card.id,
