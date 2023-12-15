@@ -34,7 +34,7 @@ async function init(cfg) {
     siteType = cfg.stype;
     types = {
         'movie': '电影',
-        'drama': '�㩞閫���',
+        'drama': '电视剧',
         'animation': '�𢆡瞍�',
         'variety': '蝏潸䰾',
         'documentary': '蝥芸�閧��',
@@ -62,7 +62,7 @@ async function home(filter) {
         const json = $('#__NEXT_DATA__')[0].children[0].data;
         const obj = JSON.parse(json).props.pageProps.filterCondition;
         const label = convertTypeData(obj, 'label', '电影');
-        const country = convertTypeData(obj, 'country', '�𧑐�躹');
+        const country = convertTypeData(obj, 'country', '电视剧');
         const time = convertTypeData(obj, 'time', '撟港遢');
         const filterArray = [label, country, time];
         filterConfig[typeId] = filterArray;
