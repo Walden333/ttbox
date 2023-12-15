@@ -61,7 +61,7 @@ async function home(filter) {
         const $ = load(html);
         const json = $('#__NEXT_DATA__')[0].children[0].data;
         const obj = JSON.parse(json).props.pageProps.filterCondition;
-        const label = convertTypeData(obj, 'label', '蝐餃��');
+        const label = convertTypeData(obj, 'label', '电影');
         const country = convertTypeData(obj, 'country', '�𧑐�躹');
         const time = convertTypeData(obj, 'time', '撟港遢');
         const filterArray = [label, country, time];
