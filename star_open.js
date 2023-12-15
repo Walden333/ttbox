@@ -1,4 +1,4 @@
-import { Crypto, load, _ } from 'assets://js/lib/cat.js';
+.import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 let key = 'star';
 let host = 'https://www.histar.tv';
@@ -33,7 +33,7 @@ async function init(cfg) {
     siteKey = cfg.skey;
     siteType = cfg.stype;
     types = {
-        'movie': '�㩞敶�',
+        'movie': '电影',
         'drama': '�㩞閫���',
         'animation': '�𢆡瞍�',
         'variety': '蝏潸䰾',
