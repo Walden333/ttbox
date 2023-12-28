@@ -42,16 +42,7 @@
             "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
             
         },
-        {
-        "key":"sc影视",
-        "name":"🌸盛城影视",
-        "type":3,
-        "api":"csp_XBPQ",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"
-        },
+        
          { 
       "key": "49zyw",
       "name": "49zyw",
