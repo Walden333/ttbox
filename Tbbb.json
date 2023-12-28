@@ -14,6 +14,18 @@
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"},
+
+        {"key":"sc影视",
+            "name":"🌸盛城影视",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"
+        },
+
+        
         {
       "key": "996影院",
       "name": "996影院",
