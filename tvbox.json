@@ -427,6 +427,7 @@
             "changeable": 0,
             "ext": "影視天下第一$$$test2$$$test2"
         },
+        {"key":"csp_xBPQ_耐看点播","name":"耐看点播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/耐看点播.json"},
         {
             "key": "push_agent",
             "name": "推送",
