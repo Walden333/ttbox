@@ -1,6 +1,7 @@
 {
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",    
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
+    "spider": "https://agit.ai/guot54/jar/0606.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -35,7 +36,7 @@
             "type": 3,
             "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
-            "spider": "https://agit.ai/guot54/jar/0606.jar",
+            
         },
          { 
       "key": "49zyw",
