@@ -1,8 +1,7 @@
 {
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",    
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
-"spider": "https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",
- "spider": "https://raw.liucn.cc/box/fty.jar;md5;b90b0b641f1e382073125f63f77bb9fe",
+"spider": "https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
     
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -44,7 +43,6 @@
         },
         
          {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
-        {"key": "南瓜","name": "🎃南瓜影視","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1 },
         
         {
             "key": "泥巴",
