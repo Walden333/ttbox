@@ -87,7 +87,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
+            "ext": "https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"
         },
         {
             "key": "haiwaikan",
