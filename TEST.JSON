@@ -42,7 +42,7 @@
             
         },
         
-         {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/duboku.json"},
+         {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
         {
             "key": "泥巴",
             "name": "泥巴",
