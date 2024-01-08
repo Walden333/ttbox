@@ -39,7 +39,15 @@
     },
 
     {
-        "key":"996","name":"玖六｜影视","type":3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cs1369.com"
+        "key":"996",
+        "name":"玖六｜影视",
+        "type":3,
+        "api":"csp_Cs1369",
+        "Type":1,
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://www.cs1369.com"
     },
         {
             "key": "drpy_js_007",
