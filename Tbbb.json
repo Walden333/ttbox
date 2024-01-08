@@ -36,6 +36,7 @@
       "api": "csp_Cs1369",
       "searchable": 1,
       "changeable": 1
+     "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",//996影院用       
     },
         {
             "key": "drpy_js_007",
