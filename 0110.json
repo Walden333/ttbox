@@ -28,7 +28,19 @@
         "filterable":1,
         "ext":"https://agit.ai/guot54/BH/raw/branch/main/y/sc1080.json"
         },
-        
+        {
+      "key": "996",
+      "name": "💥丨九六2k丨秒播",
+      "type": 3,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+        "筛选": "1"
+      },
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/Yoursmile.jar;md5;b86742ade1d29c7d75e94fa93c55de02"
+    },
         {
             "key": "drpy_js_007",
             "name": "🎫007电影",
