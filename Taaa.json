@@ -1,11 +1,9 @@
 {
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",
-    "spider":" https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
+    
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
-
-
-
+"spider":" https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar",//聖城專用
 
    
     
@@ -40,6 +38,17 @@
       "changeable": 1,     
     },
 
+    {
+        "key":"996",
+        "name":"玖六｜影视",
+        "type":3,
+        "api":"csp_Cs1369",
+        "Type":1,
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://www.cs1369.com"
+    },
         {
             "key": "drpy_js_007",
             "name": "🎫007电影",
