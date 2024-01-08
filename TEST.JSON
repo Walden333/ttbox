@@ -1,6 +1,13 @@
 {
-    "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",    
+    "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",
+    "spider":" https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
+    "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
+
+
+
+
+   
     
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -21,9 +28,8 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "ext":"https://agit.ai/guot54/YGBH2024/raw/branch/main/y/sc1080.json"
+        "ext":"https://agit.ai/guot54/BH/raw/branch/main/y/sc1080.json"
         },
-{"key":"圣城影视","name":"🚛圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/sc1080.json"},
         
         {
       "key": "996影院",
@@ -31,8 +37,9 @@
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,     
     },
+
         {
             "key": "drpy_js_007",
             "name": "🎫007电影",
@@ -42,7 +49,8 @@
             
         },
         
-         {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku.json"},
+         {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
+        
         {
             "key": "泥巴",
             "name": "泥巴",
@@ -87,7 +95,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
+            "ext": "https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"
         },
         {
             "key": "haiwaikan",
@@ -432,38 +440,10 @@
                 ".*ulivetv.*"
             ]
         },
-        {
-            "name": "海外看",
-            "hosts": [
-                "haiwaikan"
-            ],
-            "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "10.85"
-            ]
-        },
-        {
-            "name": "索尼",
-            "hosts": [
-                "suonizy"
-            ],
-            "regex": [
-                "15.1666",
-                "15.2666"
-            ]
-        },
-        {
-            "name": "暴風",
-            "hosts": [
-                "bfzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
+        {"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+{"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
+{"name":"暴风廣告","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+                
         {
             "name": "星星",
             "hosts": [
