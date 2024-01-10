@@ -51,6 +51,16 @@
         },
         
          {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
+
+{
+      "key": "初月",
+      "name": "1080P💘初月",
+      "type": 3,
+      "api": "csp_App",
+      "playerType": 2,
+      "ext": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/星星.json",
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/myog.jar"
+    },
         
         {
             "key": "泥巴",
