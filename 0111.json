@@ -3,7 +3,7 @@
     
     "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
-
+    "spider":"http://liulian1993.vip:5555/tvbox/lib/ziji/fty.jar",
 
    
     
@@ -72,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    "jar":"http://liulian1993.vip:5555/tvbox/lib/ziji/fty.jar",
+    
     },
         
         {
