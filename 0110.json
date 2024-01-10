@@ -64,13 +64,14 @@
     },
 {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜影視",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    "jar":"http://liulian1993.vip:5555/tvbox/lib/ziji/fty.jar",
     },
 
         
