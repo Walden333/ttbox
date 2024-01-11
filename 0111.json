@@ -78,13 +78,15 @@
             "changeable": 1
         },
         {
-            "key": "星星",
-            "name": "星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1
-        },
+      "key": "星星",
+      "name": "星视界 | 海外",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "style":{ "type":"rect", "ratio":0.8 },
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
+    },
         {
             "key": "玩偶",
             "name": "玩偶",
