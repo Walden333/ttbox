@@ -18,6 +18,8 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
+        {"key":"drpy_js_起飞影院","name":"起飞 | 起飞影院[js]","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/起飞影院.js"},
+
         {
         "key":"sc影视",
         "name":"🌸盛城影视",
