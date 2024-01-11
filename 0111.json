@@ -74,12 +74,13 @@
       "changeable": 1
     "spider":"http://liulian1993.vip:5555/tvbox/lib/ziji/fty.jar",
     },
+        
 {
       "key": "csp_rbzj",
       "name": "💥┃热播2K┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/yg.jar",
+      "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/yg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
