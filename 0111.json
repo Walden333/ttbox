@@ -18,14 +18,7 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
-        {
-			"key": "tvbsk",
-			"name": "TVB云播┃App",
-			"type": 3,
-			"api": "csp_Skapp",
-			"playerType": 2,
-			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/TV%E4%BA%91%E6%92%AD.json"
-		},
+        
         {
         "key":"sc影视",
         "name":"🌸盛城影视",
@@ -49,14 +42,6 @@
       },
       "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/Yoursmile.jar;md5;b86742ade1d29c7d75e94fa93c55de02"
     },
-        {
-            "key": "drpy_js_007",
-            "name": "🎫007电影",
-            "type": 3,
-            "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
-            
-        },
         
          {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
         
