@@ -56,18 +56,7 @@
       "filterable": 1
     },    
       {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},  
-        
-       {
-      "key": "Auete",
-      "name": "🏝奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://haozhansou.com/",
-	  "jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"
-    }, 
+
         
         {
             "key": "泥巴",
