@@ -1,7 +1,7 @@
 {
     
     
-    "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
+    "spider": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;711ab2f193083d2814783c3271a2da9b",
     "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
 
 
@@ -18,6 +18,7 @@
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
+        
         {
         "key":"sc影视",
         "name":"🌸盛城影视",
@@ -41,14 +42,6 @@
       },
       "jar": "http://liulian1993.vip:5555/tvbox/lib/ziji/lib/Yoursmile.jar;md5;b86742ade1d29c7d75e94fa93c55de02"
     },
-        {
-            "key": "drpy_js_007",
-            "name": "🎫007电影",
-            "type": 3,
-            "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
-            
-        },
         
          {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
         
@@ -61,7 +54,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },       
+    },    
+      {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},  
+
+        
         {
             "key": "泥巴",
             "name": "泥巴",
@@ -150,6 +146,7 @@
                 "经典片"
             ]
         },
+        {"key":"Auete","name":"奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/" "jar":"https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt"}, 
         {
             "key": "短劇",
             "name": "短劇",
