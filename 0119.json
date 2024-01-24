@@ -2463,6 +2463,7 @@
 			]
 		}
 	],
+	{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["19.52"]},
 	"ads": [
 		"wan.51img1.com",
 		"iqiyi.hbuioo.com",
