@@ -461,17 +461,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
-        {
-            "name": "量子",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
-            ],
-            "regex": [
-                "18.5333"
-            ]
-        },
+       {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["19.52"]}, 
         {
             "name": "非凡",
             "hosts": [
