@@ -2275,7 +2275,7 @@
 		"哔 哩",
 		"哔 哩 哔 哩"
 	],
-	https://raw.githubusercontent.com/Walden333/ttbox/main/0119.json
+	{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["19.52"]},
 	"m3u8ads": [
 		{
 			"name": "过",
