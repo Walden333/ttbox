@@ -2272,9 +2272,9 @@
 			"hosts": [
 				"https://vip.ffzy",
 				"https://vip.lz",
-   		      		"https://hd.lz"
-                                "https://v.cdnlz1"
-                                "https://v.cdnlz2"
+   		      		"https://hd.lz",
+                                "https://v.cdnlz1",
+                                "https://v.cdnlz2",
 			],
 			"rules": [
 				{
