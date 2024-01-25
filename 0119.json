@@ -1,15 +1,6 @@
 {
-	"spider": "./HeChengChaXiu.jar",
+	"spider": "https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
 	"sites": [
-		{
-			"key": "drpy_js_360影视",
-			"name": "😈心魔自用😈 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/360影视.js"
-		},
-	
-		
 		{
 			"key": "熊猫影视",
 			"name": "🐼熊猫影视",
@@ -18,7 +9,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/熊猫影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/熊猫影视.json"
 		},
 
 		{
@@ -29,7 +20,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/6080.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/6080.json"
 		},
 	
 		{
@@ -40,7 +31,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/四个圈影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/四个圈影视.json"
 		},
 		{
 			"key": "饭团",
@@ -50,14 +41,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/饭团.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/饭团.json"
 		},
 		{
 			"key": "drpy_js_低端",
 			"name": "❤  低端 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/ddys.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/ddys.js"
 		},
 	
 		{
@@ -68,7 +59,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/光棍影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/光棍影视.json"
 
 		},
 		{
@@ -79,7 +70,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/看剧吧.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/看剧吧.json"
 		},
 		{
 			"key": "追剧TU",
@@ -89,7 +80,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/追剧TU.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/追剧TU.json"
 		},
 		{
 			"key": "米爱影视",
@@ -99,7 +90,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/米爱影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/米爱影视.json"
 		},
 	
 	
@@ -111,7 +102,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/ppxdm动漫.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/ppxdm动漫.json"
 		},
 
 		
@@ -123,7 +114,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/子子影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/子子影视.json"
 		},
 	
 		{
@@ -134,7 +125,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/电影先生.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/电影先生.json"
 		},
 		{
 			"key": "网飞TV",
@@ -144,7 +135,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/网飞TV.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/网飞TV.json"
 		},
 		{
 			"key": "101影视",
@@ -154,7 +145,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/101影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/101影视.json"
 		},
 		{
 			"key": "电影蜜蜂",
@@ -164,7 +155,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/电影蜜蜂.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/电影蜜蜂.json"
 		},
 	
 		{
@@ -175,7 +166,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/6v电影.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/6v电影.json"
 		},
 		{
 			"key": "FREEOK",
@@ -185,7 +176,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/freeok.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/freeok.json"
 		},
 		{
 			"key": "libvio",
@@ -195,7 +186,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/libvio.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/libvio.json"
 		},
 
 		{
@@ -206,7 +197,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/素白白.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/素白白.json"
 		},
 
 	
@@ -218,7 +209,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/金曼TV.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/金曼TV.json"
 		},
 		{
 			"key": "蓝光电影网",
@@ -228,7 +219,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/蓝光电影网.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/蓝光电影网.json"
 		},
 		{
 			"key": "奈落影院",
@@ -238,7 +229,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/奈落影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/奈落影院.json"
 		},
 		
 		{
@@ -249,7 +240,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/voflix.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/voflix.json"
 		},
 			{
 			"key": "无心影视",
@@ -259,7 +250,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/无心影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/无心影视.json"
 		},
 		{
 			"key": "无极影院",
@@ -269,7 +260,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/无极影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/无极影院.json"
 		},
 		
 		{
@@ -280,7 +271,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/大米星球.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/大米星球.json"
 		},
 		{
 			"key": "假低端",
@@ -290,7 +281,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/假低端.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/假低端.json"
 		},
 		{
 			"key": "TVB云播",
@@ -300,7 +291,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/TV云播.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/TV云播.json"
 		},
 		
 		{
@@ -311,7 +302,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/快看影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/快看影视.json"
 		},
 		
 		{
@@ -322,7 +313,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/NIKETV.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/NIKETV.json"
 		},
 		{
 			"key": "看了么",
@@ -332,7 +323,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/看了吗.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/看了吗.json"
 		},
 		
 		{
@@ -343,7 +334,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/野荷塘.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/野荷塘.json"
 		},
 		
 		{
@@ -354,7 +345,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/139影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/139影视.json"
 		},
 		{
 			"key": "圣城影视",
@@ -364,7 +355,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/圣城影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/圣城影视.json"
 		},
 		
 		{
@@ -375,7 +366,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/COKEMV.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/COKEMV.json"
 		},
 		{
 			"key": "干饭影视",
@@ -385,7 +376,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/干饭影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/干饭影视.json"
 		},
 		
 		{
@@ -396,7 +387,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/小狗影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/小狗影院.json"
 		},
 		{
 			"key": "北川影视",
@@ -406,7 +397,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/北川影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/北川影视.json"
 		},
 		{
 			"key": "全能影视",
@@ -416,7 +407,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/全能影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/全能影视.json"
 		},
 		
 		{
@@ -427,7 +418,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/大豆高清.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/大豆高清.json"
 		},
 		{
 			"key": "555",
@@ -437,7 +428,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/555.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/555.json"
 		},
 		{
 			"key": "美剧天堂",
@@ -447,7 +438,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/美剧天堂.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/美剧天堂.json"
 		},
 		{
 			"key": "美剧窝",
@@ -457,7 +448,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/美剧窝.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/美剧窝.json"
 		},
 		{
 			"key": "人人美剧",
@@ -467,7 +458,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/人人美剧.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/人人美剧.json"
 		},
 		{
 			"key": "91美剧",
@@ -477,7 +468,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/91美剧.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/91美剧.json"
 		},
 		{
 			"key": "久久美剧网",
@@ -487,7 +478,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/久久美剧网.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/久久美剧网.json"
 		},
 		{
 			"key": "人人影视p",
@@ -497,7 +488,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/人人影视p.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/人人影视p.json"
 		},
 		
 		{
@@ -508,7 +499,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/兰花影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/兰花影视.json"
 		},
 		{
 			"key": "达达龟",
@@ -518,7 +509,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/达达龟.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/达达龟.json"
 		},
 		{
 			"key": "胖虎影视",
@@ -528,7 +519,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/胖虎影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/胖虎影视.json"
 		},
 		
 		{
@@ -539,7 +530,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/花花.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/花花.json"
 		},
 		
 		{
@@ -550,7 +541,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/极速影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/极速影院.json"
 		},
 	
 		{
@@ -561,7 +552,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/猫影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/猫影视.json"
 		},
 		
 		{
@@ -572,7 +563,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/皮皮影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/皮皮影视.json"
 		},
 		{
 			"key": "美奇影视",
@@ -582,7 +573,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/美奇影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/美奇影视.json"
 		},
 		
 		
@@ -594,7 +585,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/兄弟影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/兄弟影视.json"
 		},
 		{
 			"key": "csp_xml_非凡资源",
@@ -1378,7 +1369,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/落攻阁.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/落攻阁.json"
 		},
 		
 		{
@@ -1389,7 +1380,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/白嫖影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/白嫖影视.json"
 		},
 	
 		{
@@ -1400,7 +1391,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/土豪影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/土豪影视.json"
 		},
 		{
 			"key": "爱看影院",
@@ -1410,7 +1401,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/爱看影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/爱看影院.json"
 		},
 		{
 			"key": "秋霞影视",
@@ -1420,7 +1411,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/秋霞影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/秋霞影视.json"
 		},
 		{
 			"key": "歪片星球",
@@ -1430,7 +1421,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/歪片星球.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/歪片星球.json"
 		},
 		
 		{
@@ -1441,7 +1432,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/蓝光影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/蓝光影院.json"
 		},
 		{
 			"key": "莫扎兔",
@@ -1451,7 +1442,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/莫扎兔.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/莫扎兔.json"
 		},
 		{
 			"key": "八戒影院",
@@ -1461,7 +1452,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/八戒影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/八戒影院.json"
 		},
 		{
 			"key": "朴樱影视",
@@ -1471,7 +1462,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/朴樱影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/朴樱影视.json"
 		},
 		{
 			"key": "思古影视1",
@@ -1481,7 +1472,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/思古影视1.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/思古影视1.json"
 		},
 		{
 			"key": "在线之家",
@@ -1491,7 +1482,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/在线之家.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/在线之家.json"
 		},
 		{
 			"key": "西瓜影视",
@@ -1501,7 +1492,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/西瓜影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/西瓜影视.json"
 		},
 		{
 			"key": "看一看",
@@ -1511,7 +1502,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/看一看.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/看一看.json"
 		},
 		{
 			"key": "人人筷子",
@@ -1521,7 +1512,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/人人筷子.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/人人筷子.json"
 		},
 		
 		{
@@ -1532,7 +1523,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/番茄影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/番茄影视.json"
 		},
 		
 		{
@@ -1543,7 +1534,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/哆咪.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/哆咪.json"
 		},
 		{
 			"key": "万博剧院",
@@ -1553,7 +1544,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/万博剧院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/万博剧院.json"
 		},
 		
 		{
@@ -1564,7 +1555,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/影渣渣.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/影渣渣.json"
 		},
 		{
 			"key": "锐行加速",
@@ -1574,7 +1565,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/锐行加速.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/锐行加速.json"
 		},
 		{
 			"key": "明帝影视",
@@ -1584,7 +1575,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/明帝影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/明帝影视.json"
 		},
 		{
 			"key": "奇优影视",
@@ -1594,7 +1585,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/奇优影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/奇优影视.json"
 		},
 		{
 			"key": "冷曦影视",
@@ -1604,7 +1595,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/冷曦影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/冷曦影视.json"
 		},
 		
 		{
@@ -1615,7 +1606,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/我爱跟剧.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/我爱跟剧.json"
 		},
 		
 		{
@@ -1626,7 +1617,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/鸭奈非4K.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/鸭奈非4K.json"
 		},
 		{
 			"key": "CHNNETFILX",
@@ -1636,7 +1627,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/CHNNETFILX.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/CHNNETFILX.json"
 		},
 		{
 			"key": "音范丝",
@@ -1646,7 +1637,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/音范丝.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/音范丝.json"
 		},
 		
 		{
@@ -1657,7 +1648,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/影视大全.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/影视大全.json"
 		},
 		{
 			"key": "磁力熊1",
@@ -1667,7 +1658,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/磁力熊.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/磁力熊.json"
 		},
 		{
 			"key": "大师兄影视",
@@ -1677,7 +1668,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/大师兄影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/大师兄影视.json"
 		},
 		
 		
@@ -1689,7 +1680,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/酷茶影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/酷茶影视.json"
 		},
 		
 		{
@@ -1700,7 +1691,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/映迷影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/映迷影院.json"
 		},
 		{
 			"key": "野菊花电影网",
@@ -1710,7 +1701,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/野菊花电影网.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/野菊花电影网.json"
 		},
 		
 		{
@@ -1721,7 +1712,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/批哩㕷哩.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/批哩㕷哩.json"
 		},
 		{
 			"key": "首播影视",
@@ -1731,7 +1722,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/首播影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/首播影视.json"
 		},
 		{
 			"key": "起飞影视",
@@ -1741,7 +1732,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/起飞影视.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/起飞影视.json"
 		},
 		{
 			"key": "app影院",
@@ -1751,7 +1742,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/app影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/app影院.json"
 		},
 		{
 			"key": "ok影院",
@@ -1761,7 +1752,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/ok影院.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/ok影院.json"
 		},
 		{
 			"key": "小鸭看看",
@@ -1771,113 +1762,113 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/小鸭看看.json"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/小鸭看看.json"
 		},
 	
 		{
 			"key": "drpy_js_四个圈儿",
 			"name": " 四个圈儿 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/四个圈影视.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/四个圈影视.js"
 		},
 		{
 			"key": "drpy_js_007影视",
 			"name": "007影视 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/007影视.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/007影视.js"
 		},
 		{
 			"key": "drpy_js_9U电影",
 			"name": "9U电影 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/9U电影.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/9U电影.js"
 		},
 		{
 			"key": "drpy_js_云播影院",
 			"name": "云播影院 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/云播.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/云播.js"
 		},
 		{
 			"key": "drpy_js_8号影院",
 			"name": " 8号影院 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/8号影院.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/8号影院.js"
 		},
 		{
 			"key": "drpy_js_乐猪TV",
 			"name": "乐猪TV ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/乐猪TV.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/乐猪TV.js"
 		},
 		{
 			"key": "drpy_js_鸭奈飞",
 			"name": "鸭奈飞 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/鸭奈飞.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/鸭奈飞.js"
 		},
 		{
 			"key": "drpy_js_被窝电影",
 			"name": " 被窝电影 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/被窝电影.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/被窝电影.js"
 		},
 		{
 			"key": "drpy_js_南柯电影",
 			"name": " 南柯电影 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/南柯电影网.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/南柯电影网.js"
 		},
 		{
 			"key": "drpy_js_迷你库[V2]",
 			"name": "迷你库[V2]",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/迷你库[V2].js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/迷你库[V2].js"
 		},
 		{
 			"key": "drpy_js_柒之社",
 			"name": " 柒之社 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/柒之社.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/柒之社.js"
 		},
 		{
 			"key": "drpy_js_路漫漫",
 			"name": " 路漫漫 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/路漫漫.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/路漫漫.js"
 		},
 		{
 			"key": "drpy_js_看韩剧",
 			"name": " 看韩剧 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/看韩剧.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/看韩剧.js"
 		},
 		{
 			"key": "drpy_js_去看吧",
 			"name": " 去看吧 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/去看吧.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/去看吧.js"
 		},
 		{
 			"key": "drpy_js_粤爱看",
 			"name": " 粤爱看 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/粤爱看.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/粤爱看.js"
 		},
 		{
 			"key": "csp_MeiJu69",
@@ -1893,138 +1884,138 @@
 			"key": "drpy_js_菜狗",
 			"name": "官源 | 搜狗 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/菜狗.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/菜狗.js"
 		},
 		{
 			"key": "drpy_js_蜻蜓FM",
 			"name": "广播 | 蜻蜓FM ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/蜻蜓FM.js",
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/蜻蜓FM.js",
 			"playerType": "2"
 		},
 		{
 			"key": "drpy_js_喜马拉雅",
 			"name": "听书 | 喜马拉雅 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/喜马拉雅.js",
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/喜马拉雅.js",
 			"playerType": "2"
 		},
 		{
 			"key": "drpy_js_评书随身听",
 			"name": "听书 | 评书随身听 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/评书随身听.js",
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/评书随身听.js",
 			"playerType": "2"
 		},
 		{
 			"key": "drpy_js_相声随身听",
 			"name": "听书 | 相声随身听 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/相声随身听.js",
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/相声随身听.js",
 			"playerType": "2"
 		},
 		{
 			"key": "drpy_js_网易公版影像",
 			"name": "聚合 | 网易公版影像 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/网易公版影像.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/网易公版影像.js"
 		},
 		{
 			"key": "drpy_js_JRKAN直播",
 			"name": "体育 | JRKAN直播 ",
 			"type": 3,
-			"api": "./dr/lib/drpy.min.js",
-			"ext": "./dr/js/JRKAN直播.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/JRKAN直播.js"
 		},
 		{
 			"key": "drpy_js_310直播",
 			"name": "体育 | 310直播 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/310直播.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/310直播.js"
 		},
 		{
 			"key": "drpy_js_AnFuns",
 			"name": "动漫 | AnFuns ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/AnFuns.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/AnFuns.js"
 		},
 		{
 			"key": "drpy_js_爱弹幕",
 			"name": " 爱弹幕 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/爱弹幕.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/爱弹幕.js"
 		},
 		{
 			"key": "drpy_js_NT动漫",
 			"name": "动漫 | NT动漫 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/NT动漫.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/NT动漫.js"
 		},
 		{
 			"key": "drpy_js_动漫岛",
 			"name": "动漫 | 动漫岛 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/动漫岛.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/动漫岛.js"
 		},
 		{
 			"key": "drpy_js_妮可动漫",
 			"name": "动漫 | 妮可动漫 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/妮可动漫.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/妮可动漫.js"
 		},
 		{
 			"key": "drpy_js_异世界动漫",
 			"name": "动漫 | 异世界动漫 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/异世界动漫.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/异世界动漫.js"
 		},
 		{
 			"key": "drpy_js_奇珍异兽",
 			"name": "官源 | 爱奇艺 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/奇珍异兽.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/奇珍异兽.js"
 		},
 		{
 			"key": "drpy_js_优酷",
 			"name": "官源 | 优酷 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/优酷.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/优酷.js"
 		},
 		{
 			"key": "drpy_js_百忙无果",
 			"name": "官源 | 芒果",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/百忙无果.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/百忙无果.js"
 		},
 		{
 			"key": "drpy_js_腾云驾雾",
 			"name": "官源 | 腾讯 ",
 			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/腾云驾雾.js"
+			"api": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy2.min.js",
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js/腾云驾雾.js"
 		},
 		{
 			"key": "push_agent",
 			"name": "阿里 | 推送",
 			"type": 3,
 			"api": "csp_Push",
-			"ext": "./dr/lib/token.txt"
+			"ext": "https://raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/token.txt"
 		}
 	],
 	"lives": [
@@ -2281,9 +2272,9 @@
 			"hosts": [
 				"https://vip.ffzy",
 				"https://vip.lz",
-				"https://hd.lz"
-				"https://v.cdnlz1"
-				"https://v.cdnlz2"
+   		      		"https://hd.lz"
+                                "https://v.cdnlz1"
+                                "https://v.cdnlz2"
 			],
 			"rules": [
 				{
