@@ -2283,39 +2283,14 @@
 				"https://vip.lz",
 				"https://hd.lz"
 			],
-			
-      "name": "快看",
-      "hosts": [
-        "vip.kuaikan-cdn4"
-      ],
-      "regex": [
-        "20.099"
-      ]
-    
-		
- 
-      "name": "lz",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz1",
-	"v.cdnlz2",     
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333",
-        "19.52"
-      ]
-    
 			"rules": [
 				{
 					"regexp": "ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY",
 					"replace": "ts"
 				}
 			]
-		}	
+		}
 	],
-	
 	"ijk": [
 		{
 			"group": "软解码",
