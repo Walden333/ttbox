@@ -2277,7 +2277,16 @@
 	],
 	
 	"m3u8ads": [
-		{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["19.52"]},
+		{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz","v.cdnlz2"],"regex":["19.52"]},
+		{
+      "name": "快看",
+      "hosts": [
+        "vip.kuaikan-cdn4"
+      ],
+      "regex": [
+        "20.099"
+      ]
+    }
 		{
 			"name": "过",
 			"hosts": [
