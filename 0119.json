@@ -2267,6 +2267,63 @@
 		"哔 哩 哔 哩"
 	],
 	"m3u8ads": [
+
+{
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy"
+            ],
+            "regex": [
+                "20.52"
+            ]
+        },
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "19.52"
+            ]
+        },
+        {
+            "name": "暴风",
+            "hosts": [
+                "bfzy",
+                "bfbfvip"
+            ],
+            "regex": [
+                "36.12",
+                "19.52"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "16.333333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "快看",
+            "hosts": [
+                "vip.kuaikan",
+                "kuaikan"
+            ],
+            "regex": [
+                "20.099",
+                "6.166"
+            ]
+        },
+
+
+		
 		{
 			"name": "过",
 			"hosts": [
