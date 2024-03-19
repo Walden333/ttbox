@@ -192,7 +192,7 @@
             "key": "量子",
             "name": "量子",
             "type": 1,
-            "api": "https://stray.serv00.net/ad.php?url=https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
+            "api": "https://stray.serv00.net/ky.php?url=https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1
         },
