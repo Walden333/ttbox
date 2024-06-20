@@ -1,4 +1,91 @@
 {
+    "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",
+    
+    "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
+    "spider":"https://agit.ai/guot54/YGBH2024/raw/branch/main/jar/0606.jar",//聖城專用
+
+
+   
+    
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "sites": [
+        {
+            "key": "商店",
+            "name": "商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
+        {
+        "key":"sc影视",
+        "name":"🌸盛城影视",
+        "type":3,
+        "api":"csp_XBPQ",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://agit.ai/guot54/BH/raw/branch/main/y/sc1080.json"
+        },
+        {
+            "key": "drpy_js_007",
+            "name": "🎫007电影",
+            "type": 3,
+            "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
+            
+        },
+        
+         {"key":"csp_xpath_独播库","name":"📺独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"},
+        
+        {
+            "key": "泥巴",
+            "name": "泥巴",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星星",
+            "name": "星星",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
+            }
+        },
+        {
+            "key": "賤賤",
+            "name": "賤賤",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fm.t4tv.hz.cz/json/jianpian.json"
+        },
+        {
+            "key": "獨播",
+            "name": "獨播",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://raw.githubusercontent.com/Walden333/ttbox/main/duboku2.json"
+        },
+        {
             "key": "haiwaikan",
             "name": "海外看",
             "type": 1,
@@ -40,3 +127,240 @@
                 "经典片"
             ]
         },
+        {
+            "key": "短劇",
+            "name": "短劇",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "https://fm.t4tv.hz.cz/json/douban.json"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "看球",
+            "name": "看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "暴風",
+            "name": "暴風",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "索尼",
+            "name": "索尼 ",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "快帆",
+            "name": "快帆",
+            "type": 1,
+            "api": "https://api.kuaifan.tv/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "量子",
+            "name": "量子",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "非凡",
+            "name": "非凡",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "櫻花",
+            "name": "櫻花",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "巴士",
+            "name": "巴士",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "異界",
+            "name": "異界",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "哔哩",
+            "name": "哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://fm.t4tv.hz.cz/json/bili.json",
+                "type": "帕梅拉#太极拳#广场舞#演唱会",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open",
+            "name": "哔哩貓",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "酷狗",
+            "name": "酷狗",
+            "type": 3,
+            "api": "csp_Kugou",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "本地",
+            "name": "本地",
+            "type": 3,
+            "api": "csp_Local",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/alist.json"
+        },
+        {
+            "key": "WebDAV",
+            "name": "WebDAV",
+            "type": 3,
+            "api": "csp_WebDAV",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+        },
+        {
+            "key": "JustLive",
+            "name": "JustLive",
+            "type": 3,
+            "api": "csp_JustLive",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "七夜",
+            "name": "七夜",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "易搜",
+            "name": "易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "雲搜",
+            "name": "雲搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "盤搜",
+            "name": "盤搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "紙條搜",
+            "name": "紙條搜",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "盤搜索",
+            "name": "盤搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "找資源",
+            "name": "找資源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "影視天下第一$$$test2$$$test2"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "changeable": 0
+        }
+    ],
