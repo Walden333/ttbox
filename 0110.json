@@ -155,11 +155,4 @@
     }
   ]
 }
-        {
-            "key": "实验",
-            "name": "实验黑木耳",
-            "type": 4,
-            "api": "http://zhangqun66.serv00.net/225.php",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
