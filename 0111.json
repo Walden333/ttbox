@@ -235,7 +235,7 @@
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod",
+            "api": "https://raw.githubusercontent.com/Walden333/ttbox/main/hermui.php",
             "categories": [
                 "剧情片",
                 "动作片",
