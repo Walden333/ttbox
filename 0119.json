@@ -49,6 +49,14 @@
     "filterable": 1,
     "changeable": 0
 },
+ {
+            "key": "黑木耳sx",
+            "name": "黑木耳sx",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/158.php",
+            "searchable": 1,
+            "changeable":1
+        },   
 {"key":"🚨量子","name":"量子资源🔥无界","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"changeable":1},    
     {
             "key": "采集拼接",
