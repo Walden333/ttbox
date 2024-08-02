@@ -66,15 +66,17 @@
             "searchable": 1,
             "changeable": 1
         },
-    {
-            "key": "實驗油管",
-            "name": "實驗油管",
+{
+            "key": "实验油管",
+            "name": "实验油管",
             "type": 4,
             "api": "http://zhangqun66.serv00.net/py_ytlb.php",
             "searchable": 1,
             "changeable": 1,
-            "ext": "古装剧#动作片#谍战剧#沙雕穿越#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic"
+            "ext": "古装剧"
         },
+
+    
     {
       "key": "360",
       "name": "360资源站",
