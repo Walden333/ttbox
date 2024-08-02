@@ -57,6 +57,19 @@
             "searchable": 1,
             "changeable":1
         },   
+
+{
+            "key": "实验油管",
+            "name": "实验油管",
+            "type": 4,
+            "api": "http://zhangqun66.serv00.net/py_ytlb.php",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "古装剧#动作片#谍战剧#沙雕穿越#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic"
+        },
+
+
+    
 {"key":"🚨量子","name":"量子资源🔥无界","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"changeable":1},    
     {
             "key": "采集集合",
@@ -65,17 +78,7 @@
             "api": "http://zhangqun66.serv00.net/cjjh.php",
             "searchable": 1,
             "changeable": 1
-        },
-{
-            "key": "实验油管",
-            "name": "实验油管",
-            "type": 4,
-            "api": "http://zhangqun66.serv00.net/py_ytlb.php",
-            "searchable": 1,
-            "changeable": 1,
-        },
-
-    
+        },  
     {
       "key": "360",
       "name": "360资源站",
