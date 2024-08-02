@@ -70,7 +70,7 @@
             "key": "实验油管",
             "name": "实验油管",
             "type": 4,
-            "api": "http://zhangqun66.serv00.net/py_ytlb.php",
+            "api":"http://zhangqun66.serv00.net/py_ytlb.php",
             "searchable": 1,
             "changeable": 1,
             "ext": ""
