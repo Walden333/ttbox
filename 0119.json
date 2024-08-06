@@ -61,6 +61,18 @@
     
 {"key":"🚨量子","name":"量子资源🔥无界","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"changeable":1},    
     
+{
+      "key": "zonghzan",
+      "name": "🌟摸鱼测压┃4K解析",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://111.173.115.204:5566/api.php/app/"
+    },
+    
     {
       "key": "360",
       "name": "360资源站",
