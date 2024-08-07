@@ -41,23 +41,35 @@
     },
     
     {
-    "key": "T4-heimuer",
-    "name": "黑木耳(T4)",
-    "type": 4,
-    "api": "https://tang.hz.cz/power/hme?token=b2637f2c",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
- {
-            "key": "黑木耳sx",
-            "name": "黑木耳sx",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/158.php",
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=b2637f2c",
             "searchable": 1,
-            "changeable":1
-        },   
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-欧乐",
+            "name": "欧乐(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=b2637f2c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=b2637f2c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
     
 {"key":"🚨量子","name":"量子资源🔥无界","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"changeable":1},    
   
