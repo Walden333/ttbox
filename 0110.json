@@ -1,175 +1,52 @@
 {
-  "spider": "https://4tvbox.ggff.net/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
-  "wallpaper": "https://深色壁纸.饭.eu.org/",
-  "sites": [
-    {
-      "key":"ys1",
-      "name":"影视一号",
-      "type":3,
-      "api":"csp_XPathFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://4tvbox.ggff.net/ys.json"
-    },
-    {
-            "key": "实验油管",
-            "name": "实验油管",
-            "type": 4,
-            "api": "http://zhangqun66.serv00.net/py_ytlb.php",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "古装剧#动作片#谍战剧#沙雕穿越#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic"
-        },
-    {
-      "key": "ys2",
-      "name": "影视二号|无广告",
-      "type": 1,
-      "api": "https://api.huaren.live/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ys3",
-      "name": "影视三号|无广告",
-      "type": 4,
-      "api": "https://demobe.serv00.net/heimuer.php",
-      "playUrl": "json:https://4tvbox.ggff.net/noad_v2.php?url=",
-      "searchable": 1,
-      "quickSearch":0,
-      "filterable":0
-    },
-    {
-            "key": "php_hmezy",
+            "key": "黑木耳克隆",
             "name": "黑木耳克隆",
             "type": 4,
-            "api": "https://demobe.serv00.net/heimuer.php",
-            "playUrl": "json:https://4tvbox.ggff.net/noad_v2.php?url=",
-      "searchable": 1
+            "api": "http://zhangqun1818.serv00.net/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
-    {
-      "key": "hm",
-      "name": "黑木资源站|无广告",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "playUrl": "json:https://4tvbox.ggff.net/noad_v2.php?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
-    },
-    {
-      "key": "huawei",
-      "name": "华为资源站",
-      "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod",
-      "playUrl": "json:https://4tvbox.ggff.net/noad.php?url=",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片"
-      ]
-    },
-    {
-      "key": "360",
-      "name": "360资源站",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片"
-      ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "范明明IPv6",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-    }
-  ]
-}
-        
+        {
+            "key": "金鹰克隆",
+            "name": "金鹰克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/jy.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/hwb.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "实验油管",
+            "name": "实验油管",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/cjjh.php",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "实验播放列表",
+            "name": "实验播放列表",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/ytlb.php",
+            "searchable": 1,
+            "changeable": 1
+        },
