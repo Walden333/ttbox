@@ -164,6 +164,15 @@
          ]
       },
       {
+      "name": "黑木耳",
+      "hosts": [
+        "heimuer"
+      ],
+      "regex": [
+        "24.024"
+      ]
+    },
+      {
          "name":"DNSWatch",
          "url":"https://resolver2.dns.watch/dns-query",
          "ips":[
