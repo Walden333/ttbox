@@ -12,19 +12,6 @@
          "changeable":1
       },
       {
-            "key": "服务器油管",
-            "name": "服务｜油管",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/yt/yt0022.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "PL阿Q漫听#PL沙雕动画#PL谍战剧#PL谍工看片社#PL动作片#PL科幻片#沙雕穿越#中国动漫#PL小说#影视解说#新闻直播#PL动物#PL风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧"
-        },
-      {
          "key":"嗷呜金牌",
          "name":"嗷呜金牌",
          "type":3,
